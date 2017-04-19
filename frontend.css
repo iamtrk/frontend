@@ -1,0 +1,36 @@
+h1 {
+  color: orange;
+  text-align: center;
+}
+
+.profile-desc {
+  text-decoration: underline;
+  font-style: oblique;
+  text-align: center;
+  font-size: 24;
+}
+
+.employment {
+  text-align: center;
+  text-decoration: underline;
+}
+
+.mob {
+  float: left;
+  width: 34%;
+}
+
+.email {
+  float: left;
+  width: 33%;
+}
+
+.dob {
+  float: left;
+  width: 33%;
+}
+
+.details {
+  font-size: 21;
+  text-decoration: underline;
+}
